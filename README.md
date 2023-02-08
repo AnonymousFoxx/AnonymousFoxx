@@ -1,4 +1,8 @@
 <h2>Hello, I'm M4DI~UciH4!</h2>
+<p align="center"> 
+  Pengunjung<br>
+  <img src="https://profile-counter.glitch.me/AnonymousFoxx/count.svg" />
+</p>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=antonkomarev" alt="AnonymousFoxx" />
  <a href="https://github.com/AnonymousFoxx"><img src="https://img.shields.io/github/followers/antonkomarev?label=GitHub&style=social" alt="GitHub"></a>
