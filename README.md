@@ -1,4 +1,8 @@
 <h2>Hello, I'm M4DI~UciH4!</h2>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=antonkomarev" alt="AnonymousFoxx" />
+ <a href="https://github.com/AnonymousFoxx"><img src="https://img.shields.io/github/followers/antonkomarev?label=GitHub&style=social" alt="GitHub"></a>
+</p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
